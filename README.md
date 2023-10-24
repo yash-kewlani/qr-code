@@ -19,8 +19,8 @@ Completed the QR code component Frontend Mentor challenge
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/yash-kewlani/qr-code)
+- Live Site URL: [URL for QR code](https://yash-kewlani.github.io/qr-code/)
 
 ## My process
 
@@ -41,6 +41,6 @@ My current focus for know is to learn CSS. Once that is done, I will focus on so
 
 ## Author
 
-- Website - [Yash Kewlani](https://www.your-site.com)
+- Website - [Yash Kewlani](https://yash-kewlani.github.io/qr-code/)
 - Frontend Mentor - [@yash-kewlani](https://www.frontendmentor.io/profile/yash-kewlani)
 
